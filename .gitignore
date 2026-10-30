@@ -1,0 +1,15 @@
+# Flutter / Dart build output
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+build/
+flutter_*.png
+# IDE
+.idea/
+*.iml
+.vscode/
+# Flutter generated native dependencies (leave actual platform folders tracked after setup)
+**/android/local.properties
+**/android/key.properties
+**/android/.gradle/

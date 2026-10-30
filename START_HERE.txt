@@ -1,0 +1,20 @@
+AURORA GLASS CALCULATOR — WINDOWS 11 QUICK START
+================================================
+
+1. Extract this ZIP. Open the "aurora_glass_calculator" folder.
+2. Double-click SETUP_PROJECT.bat (requires working Flutter PATH).
+   It automatically creates the Android/ files using Flutter 3.47.8.
+3. Open Android Studio > Open > choose the aurora_glass_calculator folder.
+4. Connect Android phone with USB debugging, OR start an emulator.
+5. In Android Studio Terminal, run:
+      flutter devices
+      flutter run
+6. To check the code, double-click TEST_APP.bat.
+
+BUTTONS: AC clear, backspace delete, % percent, +/- change sign,
+parentheses, add/subtract/multiply/divide, decimal, equals.
+
+DESIGN: Hover = light/glow/scale on desktop. Touch = press animation.
+Light/dark theme, copy icon, history drawer (in current session).
+
+Trouble? Open README.md for detailed step-by-step instructions.

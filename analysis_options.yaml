@@ -1,0 +1,12 @@
+analyzer:
+  errors:
+    invalid_assignment: error
+    missing_required_param: error
+  exclude:
+    - build/**
+    - android/**
+    - web/**
+
+linter:
+  rules:
+    - avoid_print
